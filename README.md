@@ -5,8 +5,7 @@ Aqui você poderá encontrar: portfólios, projetos pessoais, estudos em diversa
 
 Profissionalmente sou Desenvolvedor Web com foco no Front-End mesmo sabendo fazer uso de tecnologias que fazem parte do Back-End. Tenho desejo de trabalhar com Apps e possuo interesse em tecnologia assistiva
 
-Tecnologias que utilizo profissionalmente: HTML5, CSS, SASS, BOOTSTRAP, JS, PHP e SQL.
-Tecnologias que utilizo de alguma maneira: REACT JS, REACT NATIVE, JAVA e C.
+Tecnologias que utilizo profissionalmente: HTML5, CSS, SASS, BOOTSTRAP, JS, REACT JS, REACT NATIVE, PHP, SQL, JAVA e C.
 Software de Design: Adobe Photoshop.
 <!--
 **edsoncarlosdvp/edsoncarlosdvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
