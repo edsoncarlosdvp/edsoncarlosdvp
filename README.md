@@ -1,23 +1,29 @@
-Por possuir Paralisia Cerebral e consequentemente a coordenação motora limitada, em 1994, a informática começou à fazer parte da minha vida tendo como o seu principal objetivo, contribuir para a minha produtividade com os estudos, já que em muitos dos casos, o auxílio dos alunos, professores e mãe não iria atender toda a demanda em algum momento. Porém, ali nasce uma paixão que se tornaria, amor por toda a vida! Falo da programação! Foi naquele tempo que desenvolvi as minhas primeiras linhas de códigos com a linguagem da época (BASIC). A ausência da acessibilidade trouxe diversos hiatos neste âmbito, mas jamais a desistência! Tudo o que eu aprendia era através de livros, até que, com a expansão da qualidade do EAD, cri que este amor me levaria à novos horizontes.
-Atualmente, trabalho no desenvolvimento web, iniciei profissionalmente (pois já possuía alguma experiência) por volta de 2013 através da plataforma Workana. Realizando pequenas manutenção em sites, assim como desenvolvendo soluções do mesmo porte, também fui designer utilizando o Adobe Photoshop até à desenvolver sites.
+## Hi! I'm Edson Carlos
 
-Aqui você poderá encontrar: portfólios, projetos pessoais, estudos em diversas tecnologias e etc.
-
-Profissionalmente sou Desenvolvedor Web com foco no Front-End mesmo sabendo fazer uso de tecnologias que fazem parte do Back-End. Tenho desejo de trabalhar com Apps e possuo interesse em tecnologia assistiva
-
-Tecnologias que utilizo profissionalmente: HTML5, CSS, SASS, BOOTSTRAP, JS, REACT JS, REACT NATIVE, PHP, SQL, JAVA e C.
-Software de Design: Adobe Photoshop.
-<!--
-**edsoncarlosdvp/edsoncarlosdvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://www.linkedin.com/in/edsoncarlosdvp/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsoncarlosdvp&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini2&layout=compact&langs_count=16&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Edson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Edson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Edson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Edson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Edson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Edson-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Edson-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Edson-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Edson-Spring-Tools" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Edson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Edson-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />  
+  <img align="center" alt="Edson-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />  
+</div>
+  
+  ##
+  
+<div>
+  <a href="https://www.linkedin.com/in/in/edsoncarlosdvp" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>  
+</div>
