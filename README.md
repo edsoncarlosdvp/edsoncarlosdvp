@@ -1,9 +1,9 @@
 ## Hi! I'm Edson Carlos
 
 <div>
-  <a href="https://www.linkedin.com/in/edsoncarlosdvp/">
+  <a href="#">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsoncarlosdvp&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini2&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsoncarlosdvp&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Edson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
