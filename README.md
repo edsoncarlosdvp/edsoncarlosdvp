@@ -1,6 +1,6 @@
 <div style="display: block; width: 100%;">
   ## Hi! I'm Edson Carlos
-    <a href="https://www.linkedin.com/in/in/edsoncarlosdvp" target="_blank">
+    <a href="https://www.linkedin.com/in/edsoncarlosdvp" target="_blank">
       <img height="20em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
 </div>
